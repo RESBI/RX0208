@@ -3,3 +3,5 @@
 这块CPU借鉴了https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA 这位大佬自制的8Bit CPU
 
 #你可能会问我一代哪去了，一代太烂我懒得放上来了XD
+
+#软件:Logisim, 需要环境：JAVA
